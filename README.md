@@ -1,2 +1,3 @@
-# BachelorThesis
+# Bachelor Thesis
  
+This repository include the code associated with the Bachelor Thesis with the title "Analysis of Contract Lifecycles Based on Multiclass Classification Using Natural Language Processing and Machine Learning". In this NLP project, real-world contract documents are classified using several feature selection, dimensionality reduction and machine / deep learning techniques. Finally, the results of the different classification learning algorithms are used in a semi-supervised fashion (self-training) to label the unlabeled documents. Based on the classification, the contract lifecycles consisting of different document types are visualized using a Sankey diagram.
